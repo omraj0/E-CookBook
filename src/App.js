@@ -9,8 +9,8 @@ function App() {
   const [healthLabel, sethealthLabel] = useState("fish-free");
   const [dietLabel, setdietLabel] = useState("low-fat");
 
-  const YOUR_APP_ID = "4ccca1a4";
-  const YOUR_APP_KEY = "0159c8578eb102bba3c4a6e929cc0cab";  
+  const YOUR_APP_ID = "d7da8345";
+  const YOUR_APP_KEY = "8b194095e380f0e062aa72cee9f9dfb5";
 
   var url = `https://api.edamam.com/search?q=${query}&app_id=${YOUR_APP_ID}&app_key=${YOUR_APP_KEY}&health=${healthLabel}&diet=${dietLabel}`;
 
