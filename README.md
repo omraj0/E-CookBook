@@ -92,4 +92,5 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 📫 Contact
 
 📧 **Email**: [omraj010@gmail.com](mailto:omraj010@gmail.com) ✉️
+
 🔗 **Portfolio**: [Visit Portfolio](https://omraj0.github.io/) 🌐  
